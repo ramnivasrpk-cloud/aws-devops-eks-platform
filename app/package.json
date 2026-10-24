@@ -1,0 +1,13 @@
+
+{
+  "name": "devops-demo-app",
+  "version": "1.0.0",
+  "description": "A demo application for an end-to-end AWS DevOps project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
+
